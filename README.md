@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>test</title>
+	<script>alert('xss');</script>
 </head>
 <body>
 	<h1>test</h1>
