@@ -6,6 +6,6 @@
 </head>
 <body>
 	<h1>test</h1>
-	<img src='"' onclick="alert('xxs')">
+	<a hraf="">s</a>
 </body>
 </html>
