@@ -1,7 +1,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/MrZkexe/MrZkexe/main/css.ss">
+	<link href="https://raw.githubusercontent.com/MrZkexe/MrZkexe/main/css.ss">
 </head>
 <body>
 	<h1>⛧ Olá, bem vindo ao meu github</h1>
