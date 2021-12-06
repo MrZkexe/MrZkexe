@@ -1,10 +1,4 @@
-<body style="color: lime;
-	#stats{
-	  align="center"
-	}
-	#stats img{
-	  height="200px" 
-	}">
+<body style="color: lime; align="center" img="height='200px'">
 	<link href="https://raw.githubusercontent.com/MrZkexe/MrZkexe/main/css.ss">
 	<h1>⛧ Olá, bem vindo ao meu github</h1>
 	<div id="stats">
