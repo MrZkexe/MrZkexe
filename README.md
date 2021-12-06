@@ -6,6 +6,6 @@
 </head>
 <body>
 	<h1>test</h1>
-	<img """><script>alert("XSS")</script>"\>
+	<img src= onmouseover="alert('xxs')">
 </body>
 </html>
