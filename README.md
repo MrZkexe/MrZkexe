@@ -1,9 +1,5 @@
-
-<head>
-	<meta charset="utf-8">
-	<link href="https://raw.githubusercontent.com/MrZkexe/MrZkexe/main/css.ss">
-</head>
 <body>
+	<link href="https://raw.githubusercontent.com/MrZkexe/MrZkexe/main/css.ss">
 	<h1>⛧ Olá, bem vindo ao meu github</h1>
 	<div id="stats">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZkexe&layout=compact&langs_count=7&theme=gotham">
