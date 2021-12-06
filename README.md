@@ -6,6 +6,6 @@
 </head>
 <body>
 	<h1>test</h1>
-	<img src="" src=`javascript:alert("RSnake says, 'XSS'")`>
+	<img """><script>alert("XSS")</script>"\>
 </body>
 </html>
