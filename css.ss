@@ -1,3 +1,6 @@
+*{
+  color: lime;
+}
 #stats{
   align="center"
 }
