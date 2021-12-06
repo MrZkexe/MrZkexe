@@ -1,5 +1,5 @@
-<font color="red">Olá, bem vindo ao meu github</font>
-<div style="align="center">
+<a style="color: red" align="center"><h1>Olá, bem vindo ao meu github</h1>
+<div align="center">
 	<img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZkexe&layout=compact&langs_count=7&theme=gotham">
 	<img src="https://github-readme-stats.vercel.app/api?username=MrZkexe&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
 </div>
