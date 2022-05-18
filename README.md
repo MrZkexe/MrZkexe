@@ -7,7 +7,7 @@
 <br><br>
 <div align="center">
 	<center><h1>Statisticas</h1></center>
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+	<img height="150px" src"https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
 	<!-- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MrZkexe&show_icons=true&theme=radical"> -->
 	<img height="150px" src="">
 </div>
