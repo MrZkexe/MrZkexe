@@ -9,5 +9,5 @@
 	<center><h1>Statisticas</h1></center>
 	<img height="150px" src="https://github-readme-stats.vercel.app/api?username=MrZkexe&show_icons=true&theme=merko">
 	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZkexe&layout=compact&langs_count=7&theme=merko">
-	<img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod">
+	<img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrZkexe">
 </div>
