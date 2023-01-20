@@ -5,8 +5,8 @@
 	<a href="https://open.spotify.com/playlist/1QBxY9Mdnu7bdNM8NMyk1j?si=fed7aa3ee3b34c53"><img src="https://img.shields.io/badge/listinha%20lindinha-216338?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 <br><br>
-<div align="center">
+<!-- <div align="center">
 	<center><h1>Statisticas</h1></center>
 	<img height="150px" src="https://github-readme-stats.vercel.app/api?username=MrZkexe&show_icons=true&theme=merko">
 	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZkexe&layout=compact&langs_count=7&theme=merko">
-</div>
+</div> -->
