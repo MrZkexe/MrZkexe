@@ -16,6 +16,7 @@ Eu não sei muito o que escrever aqui, na verdade, mas eu tenho uns repositório
   
 <div align="center"> 
   <center><h1>Redes sociais</h1></center>
+  <a href="https://zksec.duckdns.org/" target="_blank"><img src="https://img.shields.io/badge/zksec-9146FF?style=for-the-badge&logo=serverfault&logoColor=white"></a>
   <a href="https://www.instagram.com/zk_exe/" target="_blank"><img src="https://img.shields.io/badge/instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/@srzk" target="_blank"><img src="https://img.shields.io/badge/youtube-9146FF?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://discord.gg/EH3MGeTTQu"><img src="https://img.shields.io/badge/discord-9146FF?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
